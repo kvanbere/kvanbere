@@ -5,7 +5,7 @@ My name is Kyle. I'm currently working part time and I'm also [pioneering](https
 My career follows my interests (I have two engineering degrees), but here are some of the industries that I've been involved with:
 
 ✨ Designed electric powertrains as an electrical engineer  
-✨ Written safety critical drive-by-wire firmware for trucks as a firmware engineer  
+✨ Written safety critical ISO 26262 drive-by-wire firmware for trucks as a firmware engineer  
 ✨ Wrote a web application that eventually replaced the offering of a SAP competitor  
 ✨ Worked as a reverse engineer ("hacker")  
 ✨ Comissioned the automated gate for one of Melbourne's largest assembly venues  
