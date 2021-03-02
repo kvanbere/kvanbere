@@ -1,6 +1,6 @@
-### Hey, it's really great to meet you 👋
+### Hey, it's *really great* to meet you 👋
 
-My name is Kyle. I'm currently working part time and I'm also [pioneering](https://www.jw.org/en/library/books/jehovahs-will/jw-pioneer/) as one of Jehovah's Witnesses.
+I'm Kyle, and I currently work part-time because I'm also [pioneering](https://www.jw.org/en/library/books/jehovahs-will/jw-pioneer/) as one of Jehovah's Witnesses.
 
 My career follows my interests (I have two engineering degrees), but here are some of the industries that I've been involved with:
 
