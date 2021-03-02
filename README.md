@@ -1,4 +1,4 @@
-### Hey, it's *really great* to meet you 👋
+### Hey, it's really great to meet you 👋
 
 I'm Kyle, and I currently work part-time because I'm also [pioneering](https://www.jw.org/en/library/books/jehovahs-will/jw-pioneer/) as one of Jehovah's Witnesses.
 
